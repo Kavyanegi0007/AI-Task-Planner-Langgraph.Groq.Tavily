@@ -7,3 +7,4 @@ langgraph>=0.0.20
 langchain-community>=0.0.13
 pydantic>=2.4.0
 tavily-python>=0.2.5
+typing-extensions>=4.5.0
