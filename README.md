@@ -1,6 +1,7 @@
 # AI Task Planner Streamlit App
 
 This Streamlit application provides an interactive interface for planning complex tasks using AI. The app breaks down high-level tasks into actionable subtasks and incorporates best practices from web search results.
+<img width="1366" height="722" alt="image" src="https://github.com/user-attachments/assets/95d8d76f-0ccc-4ba1-90ad-f185975b2131" />
 
 ## Features
 
